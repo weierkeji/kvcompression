@@ -1,0 +1,4 @@
+cache_strategy: ["keep_it_odd"]
+prompt_compression_strategy: ["keep_it_odd"]
+global_tokens: 4
+recent_window: 10
